@@ -6,8 +6,6 @@ Tired of your Windows Terminal looking like a boring 1990s hacker movie? Want it
 
 This guide is **dummy-proof**. If you can click buttons and copy-paste, you can do this. Let’s turn that crusty terminal into a glass-like, auto-completing, system-flexing masterpiece! 😎
 
-![Cool Coder Hacker](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxaTNzNW9wd3o4bjBxaW91MjZnZmd5Z3hjN3Y2d2cyeDZ3eWg3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
-
 ---
 
 ## 🛠️ Ground Zero (The Basics)

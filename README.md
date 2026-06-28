@@ -57,11 +57,11 @@ You know how Linux users always have that cool system info pop up when they open
 3. Let it do its thing. If it asks you to agree to terms, type `Y` and press Enter.
 4. Now, let's put the configuration files in the right place. Press `Win + R` on your keyboard, type `%USERPROFILE%` and hit Enter. This opens your personal user folder.
 5. Look for a folder named `.config`. 
-   - If it's NOT there: Right-click anywhere in the empty space -> **New** -> **Folder**, and name it exactly `.config` (don't forget the dot at the start!).
+   - If it's NOT there: Go to local disk C: and then to User and then to your user and Right-click anywhere in the empty space -> **New** -> **Folder**, and name it exactly `.config` (don't forget the dot at the start!).
 6. Open the `.config` folder. Inside it, create another new folder and name it `fastfetch`.
 7. Open the `fastfetch` folder.
 8. Download the `config.jsonc` and `ascii.txt` files from *this* repository and drag them into this `fastfetch` folder. 
-   *(This gives you that sick Arch logo and custom colors).*
+   *(This gives you that sick Arch logo and custom colors).* For more ASCII arts just go to browser and search for your desired art (there are plenty out there)
 
 ---
 

@@ -106,10 +106,10 @@ Bask in the glory of your transparent, auto-completing, system-fetching masterpi
 (Note: The windhawk transparent glass effect will not work in energy saver mode it will give pure black color)
 Extra Tip : There are plenty of useful and good looking mods 
 Mods that i use:
-Click on empty taskbar space (select mouse double click and select action as show Desktop to minimize everything,and also enable Eager trigger evaluation)
-Taskbar Auto-Hide Instant Show (Select Animation type as Slide + Fade(silky smooth)
-Translucent Windows (#Already Done)
-Windows 11 File Explorer Styler (for all the remaining mods select Translucent windows 11)
-Windows 11 Notification Center Styler
-Windows 11 Start Menu Styler
-Windows 11 Taskbar Styler
+1. Click on empty taskbar space (select mouse double click and select action as show Desktop to minimize everything,and also enable Eager trigger evaluation)
+2. Taskbar Auto-Hide Instant Show (Select Animation type as Slide + Fade(silky smooth)
+3. Translucent Windows (#Already Done)
+4. Windows 11 File Explorer Styler (for all the remaining mods select Translucent windows 11)
+5. Windows 11 Notification Center Styler
+6. Windows 11 Start Menu Styler
+7. Windows 11 Taskbar Styler

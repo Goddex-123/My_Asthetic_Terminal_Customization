@@ -103,3 +103,13 @@ We need to tell PowerShell to run our fancy Fastfetch every single time we open 
 ### 🎉 YOU DID IT! 🎉
 Close all your terminals. Open a fresh one. 
 Bask in the glory of your transparent, auto-completing, system-fetching masterpiece. Go show off to your mom, she'll be very proud.
+(Note: The windhawk transparent glass effect will not work in energy saver mode it will give pure black color)
+Extra Tip : There are plenty of useful and good looking mods 
+Mods that i use:
+Click on empty taskbar space (select mouse double click and select action as show Desktop to minimize everything,and also enable Eager trigger evaluation)
+Taskbar Auto-Hide Instant Show (Select Animation type as Slide + Fade(silky smooth)
+Translucent Windows (#Already Done)
+Windows 11 File Explorer Styler (for all the remaining mods select Translucent windows 11)
+Windows 11 Notification Center Styler
+Windows 11 Start Menu Styler
+Windows 11 Taskbar Styler

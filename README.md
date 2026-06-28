@@ -1,10 +1,12 @@
-# 🚀 Pimp My Terminal (Windows Edition) 🚀
+# 🚀 Asthetic Terminal (Windows Edition) 🚀
 
 ![My Awesome Terminal Setup](terminal_preview.png)
 
 Tired of your Windows Terminal looking like a boring 1990s hacker movie? Want it to look so incredibly clean and aesthetic that it makes your friends jealous? You've come to the right place, young padawan! 
 
 This guide is **dummy-proof**. If you can click buttons and copy-paste, you can do this. Let’s turn that crusty terminal into a glass-like, auto-completing, system-flexing masterpiece! 😎
+
+![Cool Coder Hacker](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxaTNzNW9wd3o4bjBxaW91MjZnZmd5Z3hjN3Y2d2cyeDZ3eWg3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)
 
 ---
 
@@ -17,14 +19,14 @@ This guide is **dummy-proof**. If you can click buttons and copy-paste, you can 
 
 ---
 
-## 🧊 Step 1: The Sexy Glass Effect (Windhawk)
+## 🧊 Step 1: The Cool Glass Effect (Windhawk)
 
 We want that transparent, frosty glass look. We'll use a magic app called Windhawk for this.
 
 1. Download **Windhawk** from [windhawk.net](https://windhawk.net/) and install it. Just click next, next, next. You know the drill.
 2. Open Windhawk and click on **Explore**.
-3. Search for **"Windows Terminal Acrylic"** (or Mica).
-4. Slap that **Install** button.
+3. Search for **"Windows 11 File Explorer Styler"** and install and in settings select "Translucent Windows11" and save.
+4. Then search for **"Translucent Windows"** and install then enable first three options as 1.Windows theme custom rendering,2.New system colors,3.Windows theme accent colorizer and then in this dropdown <Background translucent effects select Blur(AccentBlurBehind) and in the AccentBlurBehind color blend type 50000000 and finally save
 5. Close your terminal and open it again. *Voila!* You can now see through it! 👻
 
 ---

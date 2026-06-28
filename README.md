@@ -1,4 +1,4 @@
-# 🚀 Pimp My Terminal (Windows Edition) 🚀
+# 🚀 Asthetic Terminal (Windows Edition) 🚀
 
 Tired of your Windows Terminal looking like a boring 1990s hacker movie? Want it to look so incredibly clean and aesthetic that it makes your friends jealous? You've come to the right place, young padawan! 
 
